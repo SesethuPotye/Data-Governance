@@ -129,11 +129,25 @@ HIPAA compliance required for sharing protected health information
 
 When a person navigates the Internet using a web browser, a padlock shows up in the address bar to indicate an encrypted HTTPS connection.
 
+# EXAMPLE OF PADLOCK
 ![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/5b2a83fe-e902-426d-84df-56bc681525a5)
 
 
+ETL processes copy data between transactional and analytical systems. When copying files between the transactional and analytical servers, use the Secure Copy Protocol (SCP) or the Secure File Transfer Protocol (SFTP). As their names imply, both SCP and SFTP establish an encrypted tunnel to copy data
+
+# EXAMPLE OF ETL PROCESS 
+
+![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/c25ab663-5018-433f-8dc1-a5b66bc14a95)
+
+# Data Masking:
+
+* Data masking replaces sensitive data elements (like Social Security numbers) with fake but realistic data in non-production environments (testing, training).
+* This protects real people's privacy and reduces risk for the organization.
+* Masking doesn't affect the usefulness of data for testing or training purposes (e.g., using a fake SSN for testing doesn't impact the test)
 
 
+  # Data masking ETL process
+![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/2bccaa45-2fb4-4926-90b6-8b5a7e4541ab)
 
 
 
