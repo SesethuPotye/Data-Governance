@@ -64,7 +64,7 @@ His access is adjusted based on his new role (Finance -> Facilities -> HR).
 
 * Assigning permissions directly to users is risky and complex.
 * Increases chance of errors, like forgetting to remove old permissions (Figure 3).
-*Can lead to users having too much access (security risk).
+* Can lead to users having too much access (security risk).
 
 
 ![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/664f41ea-3cbe-465e-8766-a658da85908d)
@@ -72,6 +72,19 @@ His access is adjusted based on his new role (Finance -> Facilities -> HR).
 # Group Permissions
 
 When developing a role-based access strategy, it is common to implement user group-based permissions.
+
+EXAMPLE OF SAMPLE ORGANIZATION CHART
+
+![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/fcf79a65-61f6-4560-ad05-18a4aa9d4fae)
+
+
+
+
+
+
+
+
+
 
 
 
