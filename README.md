@@ -77,6 +77,152 @@ EXAMPLE OF SAMPLE ORGANIZATION CHART
 
 ![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/fcf79a65-61f6-4560-ad05-18a4aa9d4fae)
 
+# Data Use Agreements
+
+A Data Use Agreement (DUA) is a contract between organizations that outlines the rules for sharing private data.  It's important to have a DUA in place before you give any private data to another organization. When creating a DUA, you need to consider how sensitive the data is. The more sensitive the data, the stricter the rules in the DUA should be about how it can be shared.
+
+# example of group based roles
+![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/87f2c7a2-6ad4-4320-b610-363270393377)
+
+
+# DUA: Rules for Sharing Private Data
+
+* A DUA is a contract that sets the rules for securely transferring, using, and disclosing private data between organizations.
+* It specifies details like:
+  * Who receives the data
+  * How the data can be used (restrictions may apply)
+  * How the data is transferred
+  * How the recipient protects the data
+  * No further distribution of the data without permission
+* DUA approval processes vary by organization.
+* Legal and regulatory requirements may influence the process.
+In the US:
+IRB approval needed for research on human subjects (FDA)
+HIPAA compliance required for sharing protected health information
+
+
+# Security Requirements
+
+
+* Encryption scrambles data using a key, making it unreadable without the key. This protects data at rest (stored) and in transit (moving).
+* Encryption Key: A secret code used for encryption and decryption. Losing the key makes the encrypted data inaccessible.
+  
+# Securing Data at Rest
+
+* Databases are easier to secure due to centralized storage and access controls.
+
+  * Transparent Data Encryption (TDE) encrypts database files for additional 
+   security (e.g., Oracle and Microsoft offer TDE).
+* Flat Files (on portable devices) pose a bigger challenge due to the risk of physical loss.
+
+  * Device Encryption protects flat files if the device is lost or stolen (as long 
+    as the encryption key is safe
+    Securing Data in Transit
+
+* HTTPS (Hypertext Transfer Protocol Secure): Encrypts the connection between two locations transferring data.
+  * Combines HTTP (data transfer protocol) with TLS (Transport Layer Security) for encryption.
+
+
+
+# EXAMPLE OF ENCRYPTED NETWORK CONNECTION 
+![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/f004d9c0-716a-4195-9172-bfa8e4cdafc8)
+
+When a person navigates the Internet using a web browser, a padlock shows up in the address bar to indicate an encrypted HTTPS connection.
+
+![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/5b2a83fe-e902-426d-84df-56bc681525a5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
