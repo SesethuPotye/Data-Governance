@@ -539,7 +539,21 @@ IMPORTANT
   
 * Data Flow and Silos: In medium to large organizations, data needs to seamlessly flow across departments (e.g., sales and product development) and serve diverse users in various formats. Data architecture helps achieve this.
 
+# THE LIFE CYCLE OF DATA
+All data goes through phases during its lifecycle
+![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/f05e9dab-01bf-4121-a02a-fc97466299d3)
 
+FIVE STAGES OF THE DATA LIFECYCLE:
+
+1. Creation: This is the origin of data. It can be generated manually or automatically, internally or externally, through various activities and system interactions.
+   
+2. Storage: Once created and intended for future use, data needs to be stored. This often involves databases residing on local drives, servers, or cloud storage solutions.
+   
+3. Usage: Data is typically collected and stored for a reason - to be used later, possibly for analysis. Before use, data may require processing to cleanse errors, convert formats, or manage access permissions.
+   
+4. Archiving: Here, data identified as inactive gets moved to a long-term storage system outside the active environment. This archived data can still be retrieved and used if needed in the future.
+   
+5. Destruction: While some might prefer to hold onto everything indefinitely, there comes a point when data destruction is necessary. This could be due to regulations, policies, or simply no longer needing the data. Destruction ensures data becomes inaccessible and unreadable, sometimes involving physical destruction of storage devices.
 
 
 
