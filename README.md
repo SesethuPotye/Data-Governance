@@ -555,9 +555,16 @@ FIVE STAGES OF THE DATA LIFECYCLE:
    
 5. Destruction: While some might prefer to hold onto everything indefinitely, there comes a point when data destruction is necessary. This could be due to regulations, policies, or simply no longer needing the data. Destruction ensures data becomes inaccessible and unreadable, sometimes involving physical destruction of storage devices.
 
+# IMPORTANCE! 
 
+* Data Lifecycle Stages: Data exists in various states throughout its lifecycle (creation, storage, usage, archival, destruction).
+  
+* Stage-Specific Treatment: Data requirements and handling differ depending on the lifecycle stage. For instance, security measures for actively used data will be stricter compared to archived data.
+  
+* Data Governance Impact: Understanding the data lifecycle is crucial for data governance as it helps determine appropriate handling practices at each stage.
+  
 
-
+# UNDERSTANDING THE IMPACT OF BIG DATA
 
 
 
