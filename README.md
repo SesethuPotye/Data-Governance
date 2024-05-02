@@ -235,9 +235,14 @@ Data governance is about managing data well and helping to deliver its optimum v
 ![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/35a133bd-ac3e-4e33-b9d2-d2ade4195eb2)
 
 
+# Developing a Data Governance Framework
+
+A data governance framework is essentially a blueprint for how an organization manages its data. It's a set of rules, processes, and responsibilities that dictate how data is collected, stored, used, and protected.
+
+# COMMON COMPONENTS OF A DATA GOVERNANCE FRAMEWORK
 
 
-
+![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/5ae77893-f92d-4f6c-ae7c-c174c0cf6825)
 
 
 
