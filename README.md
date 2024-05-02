@@ -268,18 +268,51 @@ This improvement allows more people to participate in effectively managing data 
 This communication can happen through various channels like meetings, emails, newsletters, and workshops.
 Special attention needs to be paid to explaining how these changes impact different teams and their responsibilities within the data governance program.
 
+# PREPARING FOR DATA GOVERNANCE
+
+* Just setting up a team, plan, and buying tools isn't enough for successful data governance.
+  
+* Organizations need to assess if they're prepared for the cultural shift it entails.
+  
+* A key factor is having a data culture - how data is viewed and handled within the organization.
+  
+* A mature, data-driven culture is much more receptive to data governance than a reactive one where data handling is haphazard.
+  
+* Another crucial element for success is ensuring the organization's overall strategy aligns with the data governance program. Misalignment is a major reason for program failures.
+
+WHAT IS DATA CULTURE?
+
+* Impact on Success: A strong data culture is a critical factor for successful data governance implementation.  If employees don't understand the importance of data quality, security, and responsible use, data governance initiatives will likely face resistance and struggle to achieve their goals.
+
+# Characteristics of a Good Data Culture:
+A data-driven culture is characterized by:
+
+* Data awareness: People recognize the value of data and its potential to improve decision-making.
+  
+* Data literacy: Employees have the skills and knowledge to understand, work with, and analyze data effectively.
+  
+* Data sharing: There's an openness to sharing data across departments to achieve organizational goals.
+  
+* Data accountability: People are held responsible for the quality and responsible use of data they handle.
+  
+* Data Governance Fosters a Data Culture:  While a strong data culture is essential for successful data governance, the process itself can also help cultivate those positive attitudes and behaviors. By setting clear policies, promoting data literacy programs, and demonstrating the value of data-driven decision making, data governance initiatives can influence how people view and interact with data throughout the organization.
+
+
+# Assessing the Data Culture
 
 
 
 
 
+# Maturing the Data Culture:
 
+* Leadership champions data: Leaders need to actively communicate the importance of data and demonstrate its value through real-world examples of successful data-driven decisions.
 
+* Empowering employees: Provide basic data skills training covering data manipulation, analysis, cleansing, querying, and visualization. Don't underestimate the power of common tools like spreadsheets for data management.
 
+* Start small, celebrate progress: Focus on achievable steps to initiate the data culture journey.  Basic data management skills training can be a good starting point. Celebrate even small wins to keep momentum going.
 
-
-
-
+* Embrace challenges:  Acknowledge that there will be resistance and frustration during this culture shift.  Focus on providing support mechanisms like open communication channels and positive discussions to address concerns and celebrate successes.
 
 
 
