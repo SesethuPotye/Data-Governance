@@ -237,15 +237,36 @@ Data governance is about managing data well and helping to deliver its optimum v
 
 # Developing a Data Governance Framework
 
-A data governance framework is essentially a blueprint for how an organization manages its data. It's a set of rules, processes, and responsibilities that dictate how data is collected, stored, used, and protected.
+A data governance framework is essentially a blueprint for how an organization manages its data. It's a set of rules, processes, and responsibilities that dictate how data is collected, stored, used, and protected. The goal is :
+
+* High quality: Accurate, consistent, and reliable.
+* Secure: Protected from unauthorized access or breaches.
+* Compliant: Follows all relevant laws and regulations.
+* Accessible: Available to those who need it for legitimate purposes.
 
 # COMMON COMPONENTS OF A DATA GOVERNANCE FRAMEWORK
 
 
 ![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/5ae77893-f92d-4f6c-ae7c-c174c0cf6825)
 
+* Roles and responsibilities: Who is accountable for different aspects of data governance? (e.g., data stewards, data quality specialists)
+  
+* Policies: Guidelines for how data should be handled (e.g., data security policies, data retention policies)
+  
+* Standards: Definitions and formats for data to ensure consistency (e.g., data dictionaries)
+  
+* Metrics: How will you measure the success of your data governance program? (e.g., data quality metrics)
+  
+* Processes: Specific procedures for handling data throughout its lifecycle (e.g., data cleansing procedures)
 
+* Tools: There's a wide range of software to support data governance and management tasks.
+These tools address various needs such as managing master data, creating data catalogs, data searching, data security, data integration, data analysis, and ensuring compliance with regulations.
+Recently, data science tools have become easier to use and more automated, making data management less complex.
+This improvement allows more people to participate in effectively managing data and extracting value from it.
 
+* Communications and Collaboration; Data governance involves ongoing changes, so keeping everyone informed is crucial.
+This communication can happen through various channels like meetings, emails, newsletters, and workshops.
+Special attention needs to be paid to explaining how these changes impact different teams and their responsibilities within the data governance program.
 
 
 
