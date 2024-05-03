@@ -56,6 +56,11 @@ In summary, data is a crucial element in business operations. It's used to analy
 * In essence, strategy is the "what" and "why" while operations are the "how." Both are crucial for organizational success, and data plays a vital role in making informed decisions throughout the process.
   
 
+# IMPORTANT 
+Data and experience go hand-in-hand: While data is crucial, successful strategy development considers both data and the experience-based perspectives of people involved. An over-reliance on one or the other can be detrimental.
+Strategy as an ongoing process: A best practice is to revisit and potentially adjust the strategy periodically (e.g., every 6 months). This can be driven by new data (knowledge and insights) that emerges.
+Adapting to changing environments: In today's fast-paced world, organizations need to respond quickly to changing conditions. Data should be the foundation of this response system, allowing for adjustments as needed.
+In short, strategy development should be a data-driven process that also incorporates valuable human experience. It's an ongoing process that can be adapted based on new information and a changing environment.
 
 
 
