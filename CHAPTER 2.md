@@ -243,3 +243,100 @@ FIVE STAGES OF THE DATA LIFECYCLE:
   
 
 # UNDERSTANDING THE IMPACT OF BIG DATA
+
+* Data collection has been around for a long time, even before computers.
+People have been keeping records for thousands of years, like the Romans using ledgers.
+
+* The 20th century saw advancements in data storage due to the Cold War.
+  
+* The space race, a part of the Cold War, further accelerated innovation in computing and communication.
+
+# The Role of The U.S. Census in The Information Revolution
+
+* The massive task of processing census data in the 1880s (taking 8 years!) led to the invention of data processing machines.
+  
+* The Tabulating Machine Company (later IBM) created a system using punch cards to represent and process census information.
+  
+* This innovation in data processing laid the foundation for future advancements and the rise of the Information Age.
+  
+* The success of data processing for the census led to its use in other areas, further accelerating the information revolution.
+
+# Defining Big Data(THE FIVE VS THAT DEFINE BIG DATA)
+
+* Volume: The massive amount of data being generated requires new approaches to handle it.
+  
+* Variety: The ever-increasing number of data formats demands new methods for handling, analyzing, and securing this data.
+  
+* Velocity: Data is constantly being created and transferred at ever-growing speeds.
+  
+* Variability: The unpredictable nature of data creation and flow makes it challenging to manage.
+  
+* Veracity: The accuracy and quality of vast amounts of data can vary significantly, posing a problem for data management.
+
+
+# Drivers of Big Data
+
+Eric Schmidt, former Google CEO, in 2003. He claimed that the amount of data created globally every two days surpassed the total data created throughout human history up to that point. This emphasizes the explosive growth of data generation in the early 21st century.
+
+# THE EXISTANCE OF BIG DATA 
+
+* The explosion of smartphones and apps
+* The Internet of Things (IoT) with its billions of connected devices
+* The massive amounts of social media content like cat videos
+
+In a nutshell, big data grew explosively in the third decade of the 21st century, reaching zettabytes in size.
+
+#EXAMPLE OF A DAIGRAM SHOWING DATA GROWTH IN ZETTABYTES FROM 2010 TO 2025
+![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/33399403-bc72-4527-aff0-156b39c8507f)
+
+
+* In 2021, 79 zettabytes of data were created globally.
+  
+* This amount is expected to reach 180 zettabytes by 2025.
+  
+* The point is that future readers (e.g., in 2040) might find these numbers insignificant, similar to how 32GB phone storage seemed massive in 2015 but feels small today.
+  
+* This emphasizes the exponential growth of data generation.
+
+# CONSEQUENCES OF BIG DATA
+
+# IMPORTANT
+* Big data statistics might seem impressive, but there's more to the story.
+* Key challenges exist with big data quality, accessibility, and analysis.
+* Up to 80% of data is unstructured, making it difficult to handle for most organizations.
+* Data can also be duplicated or bad (containing errors), posing further challenges.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
