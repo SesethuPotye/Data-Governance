@@ -57,15 +57,24 @@ In summary, data is a crucial element in business operations. It's used to analy
   
 
 # IMPORTANT 
-Data and experience go hand-in-hand: While data is crucial, successful strategy development considers both data and the experience-based perspectives of people involved. An over-reliance on one or the other can be detrimental.
-Strategy as an ongoing process: A best practice is to revisit and potentially adjust the strategy periodically (e.g., every 6 months). This can be driven by new data (knowledge and insights) that emerges.
-Adapting to changing environments: In today's fast-paced world, organizations need to respond quickly to changing conditions. Data should be the foundation of this response system, allowing for adjustments as needed.
+* Data and experience go hand-in-hand: While data is crucial, successful strategy development considers both data and the experience-based perspectives of people involved. An over-reliance on one or the other can be detrimental.
+* Strategy as an ongoing process: A best practice is to revisit and potentially adjust the strategy periodically (e.g., every 6 months). This can be driven by new data (knowledge and insights) that emerges.
+* Adapting to changing environments: In today's fast-paced world, organizations need to respond quickly to changing conditions. Data should be the foundation of this response system, allowing for adjustments as needed.
+  
 In short, strategy development should be a data-driven process that also incorporates valuable human experience. It's an ongoing process that can be adapted based on new information and a changing environment.
 
+# DECISION- MAKING 
+
+* Data's highest value lies in enabling better decision-making.
+* The sheer volume and quality of data available today surpass anything ever seen before.
+* Consumers: Search engines empower people (e.g., patients) to be more informed about their situations. This can be helpful (fewer unnecessary doctor visits) but also lead to problems if the information is inaccurate (headaches for doctors dealing with misinformation).
+
+* Businesses: Organizations benefit from readily available data. This allows for faster, more timely decisions based on real-time insights into strengths, weaknesses, opportunities, and threats.  Previously, businesses might have had to wait for quarterly reports, but now they can get a clearer picture even with interim data, which is still better than having no information at all.
 
 
-
-
+* Quality over quantity: Having a lot of data isn't enough. It needs to be accurate and up-to-date to be valuable.
+* Bad data is harmful: In fact, bad data can be worse than no data at all. Using bad data to make decisions can lead to negative consequences, ranging from minor mistakes to business closure.
+* Success relies on good data: For data-driven decision-making to be successful, decision-makers need access to high-quality data at the right time.
 
 
 
