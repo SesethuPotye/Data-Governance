@@ -306,9 +306,37 @@ In a nutshell, big data grew explosively in the third decade of the 21st century
 * Up to 80% of data is unstructured, making it difficult to handle for most organizations.
 * Data can also be duplicated or bad (containing errors), posing further challenges.
 
+Despite the challenges mentioned earlier, big data offers significant benefits:
 
+* It provides valuable insights for organizations of all kinds.
+* It fuels innovation across various fields, from self-driving cars to efficient supply chains.
 
+# WHAT IS SMALL DATA? 
 
+All this talk about big data might suggest that small amounts of data just aren’t as interesting or valuable. I don’t want to suggest that, as it would be wrong.
+
+# IMPORTANT
+* Big data dominates decision-making in the digital economy, but small data sets also play a crucial role.
+* Examples include spreadsheets, short surveys, and personal to-do lists.
+* While less glamorous than big data, small data can be equally valuable in specific situations.
+
+# BIG DATA CAN BE ANSWERED IN SMALL DATA
+* Big questions can be answered by analyzing smaller datasets.
+* Big data often needs to be broken down into smaller chunks for better comprehension.
+* In some cases, using smaller, well-organized datasets might be the only way to make sense of massive amounts of data.
+
+# ENTER THE REALM OF SMART DATA
+
+* Big data can be overwhelming due to its vast volume, variety, and speed (velocity).
+
+* Smart data tackles this by applying processes to big data, making it more usable for specific purposes.
+
+* This allows for targeted marketing campaigns or real-time analytics in manufacturing, for instance.
+
+* Smart data leverages new tools like AI to identify patterns and extract relevant data from unstructured big data sets.
+
+* AI helps reduce processing time, errors, and enables creation of more focused data subsets.
+* Additionally, smart data solutions are often implemented at the data collection stage, rather than as an afterthought.
 
 
 
