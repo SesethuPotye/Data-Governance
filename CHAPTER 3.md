@@ -76,6 +76,60 @@ In short, strategy development should be a data-driven process that also incorpo
 * Bad data is harmful: In fact, bad data can be worse than no data at all. Using bad data to make decisions can lead to negative consequences, ranging from minor mistakes to business closure.
 * Success relies on good data: For data-driven decision-making to be successful, decision-makers need access to high-quality data at the right time.
 
+# MEASURING
+* Businesses constantly measure: Organizations, intentionally or unintentionally, are always gathering data through various measurements.
+* Measurement leads to better management: The saying "what gets measured gets managed" holds true. By measuring aspects of the business, leaders gain insights to improve management.
+* Not everything is measurable: While measurement is important, some things are inherently difficult to quantify.
+* Data drives informed decisions: Ultimately, leaders rely on information derived from this measurement data to make informed choices.
+
+  
+In essence, measurement is a crucial tool for businesses to track performance, gain insights, and make better decisions.
+Data measurements can be quantitative or qualitative. Quantitative data is most often described in numerical terms, whereas qualitative data is descriptive and expressed in terms of language
+
+* Data (Quantitative): Focuses on measurable aspects. Here, data describes the flight's altitude (50,000 meters) and speed (750 km/h).
+* Information (Qualitative): Provides descriptive details. In this case, information describes a smooth flight and good meals.
+  
+Both data and information contribute to understanding the journey, although the value might depend on the audience.
+
+In short, data is the raw numbers, while information adds context and meaning to that data.
+
+
+* Measurement drives information: The kind of information needed determines how you measure data. This includes what data is captured, when, where, and how.
+  
+* Focus on what matters: Only collect and measure data that has a clear purpose. While some argue for collecting data "just in case" of future needs, it's crucial to be mindful of resource limitations and potential costs associated with storing unused data.
+
+In essence, target your data collection on what's essential to get the information you need, avoiding unnecessary data gathering
+
+
+The quote's message: Not everything measurable is truly important, and some crucial things might not be easily quantifiable.
+Data enthusiasm vs. relevance: Just because you can collect data doesn't mean it's always valuable. Focus on gathering data that has a clear purpose and provides meaningful insights.
+In other words, don't get carried away by the possibility of collecting data. Prioritize collecting data that truly matters and contributes valuable information.
+
+MONITORING 
+
+* Definition: Monitoring is the continuous process of collecting and assessing the performance of something, like a project, system, or process.
+* Comparison and Targets: The collected data is often compared to existing standards or desired goals. For instance, a factory machine might be expected to produce a certain number of units per hour (e.g., 100 widgets). Monitoring helps track if this expectation is being met.
+* Benefits: Monitoring serves various purposes across different activities:
+  * Identifying performance issues (meeting expectations)
+  * Ensuring continuity (things keep functioning as intended)
+  * Maintaining stability (avoiding unexpected changes)
+  * Guaranteeing reliability (performing consistently as expected)
+In short, monitoring is a continuous evaluation process that helps ensure things are functioning as planned and meeting established goals.
+
+Involved in monitoring is the data produced by the thing being evaluated. It’s also the data that is produced as a product of monitoring. For example, the deviation from the expected result.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
