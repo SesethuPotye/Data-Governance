@@ -235,25 +235,60 @@ treating data as a valuable asset is key to maximizing its worth. Many overlook 
 Data exploration, also known as data analytics, is a core function in organizations that requires skilled professionals and specific tools. The rise of big data has made this process more intricate and demanding of expertise, but it has also heightened the value and significance of data for businesses.
 
 
+# APROACHING DATA AS AN ASSET
+# WHAT IS AN ASSET?
+* An asset is something that is owned by a person, an organization, or a government with the expectation that it can bring some economic benefit. This includes the generation of income, the reduction of expenses, or an increase in net worth.
+  
+* Assets can be either tangible (physical objects you can touch) or intangible (ideas or rights with economic value). Data, like software and brands, is an intangible asset.
+  
+* Both tangible and intangible assets are important to organizations because they are recorded financially. This financial picture reflects the organization's health, and is crucial for tasks like determining taxes and securing loans.
 
 
+# EXAMPLES OF ECONOMIC VALUE OF DATA:
+
+* Improves operations.
+* Increases existing revenue.
+* Produces new forms of revenue.
+* Builds relationships with customers and other stakeholders.
+* Improves the quality of products and services.
+* Contributes to competitive advantage.
+* Enables innovation.
+* Reduces risk.
+
+Data, though an intangible asset valuable to organizations, isn't always reflected on their financial statements. Accounting standards vary by country, making it a complex issue for another discussion. However, this lack of formal recognition often leads to data being undervalued, underutilized, and inadequately protected.
+
+#  Recognizing that data is an asset is the first step to good data governance.
+
+Recognizing data as an asset brings a new perspective to data management. It emphasizes the importance of understanding what data you have, its quality, and its role in the organization's success. Just like financial assets, good data management requires clear ownership, accountability, and avoiding data silos. If data seems valueless, re-evaluate the need to manage it at all.
+
+# IMPORTANT
+Bottom line: Data is an asset and for its value to be leveraged, it must be governed. This may be one of the most important motivations for good data governance.
 
 
+# DATA ANALYTICS 
+Raw data is cryptic and requires analysis to be useful. This process, called data analytics, involves specific tools and techniques to extract meaning and inform sound decision-making. Data analysts play a crucial role in transforming raw data into valuable insights
 
+# BASIC STEPS IN DATA ANALYSIS
+![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/624cb4e1-e895-4b29-bd4c-04b27428b843)
 
+# FOUR PRIMARY TYPES OF DATA ANALYTICS
 
+* NDescriptive: This type analyzes past data to understand what happened, often focusing on key performance indicators (KPIs) and business objectives.
+  
+* Diagnostic: Here, the analysis digs deeper into the "why" behind past events, using descriptive analysis as a foundation.
+  
+* Predictive: This analysis leverages historical data and trends to forecast future possibilities.
+  
+* Prescriptive: This analysis builds on predictive techniques, but goes a step further by recommending specific actions based on predicted outcomes.
 
+# THE RELATIVE COMPLEXITY AND BUSINESS VALUE OF FOUR TYPES OF ANALYTICS
 
+![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/979f6a45-2d97-4201-81a9-3188a66ee089)
 
+Data analysts use various software tools to analyze data. These tools go beyond basic spreadsheets and include options like R, Python, Tableau, Power BI, and QlikView. The specific software used depends on the complexity of the data, the analyst's skills, and the desired outcome of the analysis.
 
-
-
-
-
-
-
-
-
+# IMPORTANT 
+Data analysis skills are becoming increasingly crucial for businesses. While large organizations might have dedicated data analysts, even basic data skills are becoming essential for most staff. In today's data-driven world, data literacy might be as vital as fundamental computer skills like using email or word processing software.
 
 
 
