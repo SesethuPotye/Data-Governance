@@ -290,6 +290,81 @@ Data analysts use various software tools to analyze data. These tools go beyond 
 # IMPORTANT 
 Data analysis skills are becoming increasingly crucial for businesses. While large organizations might have dedicated data analysts, even basic data skills are becoming essential for most staff. In today's data-driven world, data literacy might be as vital as fundamental computer skills like using email or word processing software.
 
+DATA MANAGEMENT
+
+# IMPORTANT
+Data management is not the same as data governance! But they work closely together to deliver results in the use of enterprise data.
+
+# DEFINE DATA MANAGEMENT
+Data management is the implementation of data governance. Without data management, data governance is just wishful thinking. To get value from data, there must be execution.(Just collecting and storing data isn't enough. Data management needs to be well-developed to avoid problems like data silos, security breaches, and unreliable data)
+
+# Who would choose to make decisions based on bad data?
+Good data management leads to better business outcomes. When data is treated as a valuable asset and managed effectively, several benefits arise:
+
+* Richer and timelier insights: Data analysis becomes more accurate and helps identify trends and opportunities faster.
+* Smoother operations: Data-driven decision-making improves efficiency and reduces errors.
+* Informed teams: Employees have the information they need to make better choices.
+* Reduced risks: Strong data management minimizes security breaches and compliance issues.
+
+# Data management is a comprehensive process:
+
+* It covers the entire data lifecycle, from collection and storage to analysis and archiving.
+* It ensures data flows smoothly across the organization and is accessible to authorized users.
+* It involves tasks like data standardization, encryption, and setting data governance policies.
+  
+# Everyone plays a part:
+
+While the technology team has a significant role in implementing data management practices,
+all business users are responsible for following data policies and maximizing data's value.
+
+# In summary, good data management provides the opportunity for significantly enhanced organizational performance.
+
+
+# GOVERNING DATA
+
+Data governance is about establishing control to enforce related policies. Imagine a policy requiring daily data backups to minimize risk. Data governance would involve documenting the backup process and ensuring it's followed. If backups aren't happening, it would be a sign that data governance isn't functioning effectively.
+
+# IMPORTANT 
+
+To fully realize the potential of data in your organization means that data must be governed. Any time an organizational resource or asset is left unmanaged, it’s either a recipe for disaster or a missed opportunity. Even a small amount of governance beats no governance every single day.
+
+# ESSENTAIL FACRORS OFTHAT CAN REDUCE THE SUCCESS OF GOVERNNG DATA
+
+
+# People:
+
+* Even though machines are creating and using more data, humans remain central to data governance.
+* People define, design, and maintain how data is used.
+* They act as subject matter experts, ensure data quality, and oversee data governance processes.
+  
+# Policies:
+
+* Data policies are a set of rules for handling data under specific circumstances and for desired outcomes.
+* These policies cover areas like data quality, privacy, security, and how long data is retained.
+* The number of policies depends on factors like organization size, industry, and how important data is considered.
+* Industries like healthcare and finance, which handle sensitive data, typically have many data governance policies.
+  
+# Metrics:
+
+* Data governance effectiveness is measured through metrics that track how well policies are followed.
+  
+* For example, a policy might aim for less than five data security incidents per month.
+  
+* If the number of incidents doesn't decrease over time, it indicates a problem with data management practices.
+
+* Metrics should address both technical aspects (e.g., data security) and business needs (e.g., timely data for decision-making).
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
