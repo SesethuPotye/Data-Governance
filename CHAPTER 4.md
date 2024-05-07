@@ -329,6 +329,191 @@ After all, the existence of data does not equate to ensuring it is usable, acces
 If your organization doesn’t have a data strategy, create one. If you have a data strategy, make sure it’s current and effectively communicated
 
 
+# CREATING A DATA STRATEGY
+
+# Data Maturity:
+
+* Organizations have varying levels of data usage and expertise (data maturity).
+* The data strategy should build upon existing practices, avoiding unnecessary complexity for beginners.
+  
+# Industry and Size:
+
+* Industries prioritize data differently: healthcare focuses on security (defense), while marketing leverages data for insights (offense).
+* Smaller businesses require simpler strategies compared to large, complex organizations.
+  
+# Five Data Requirements:
+
+* Identify: Clearly define and describe data for easy use (file names, formats, metadata).
+* Store: Design systems for data storage, sharing, access, and processing.
+* Provision: Establish processes for data sharing, reuse, and access guidelines.
+* Process: Transform raw data into valuable insights through cleaning, standardization, and integration.
+* Govern: Implement processes to manage and communicate data use policies within the organization.
+  
+# Four Data Strategy Components:
+
+#  Alignment with Business:
+  * The data strategy should support and advance the overall business goals.
+  * Align data strategy goals with business goals (e.g., reducing customer acquisition cost).
+  * The data strategy needs to adapt alongside evolving business strategies.
+     # Identifying Roles and Responsibilities:
+  * Assign clear roles for data consumers (accessing and using data) and data providers (IT staff, data scientists, etc.).
+  * Data strategy and data governance are interrelated, with overlapping goals.
+# Data Architecture:
+* Define processes, systems, and applications for working with data.
+* This includes data storage needs, analysis tools, data catalogs, data warehouses, data pipelines, and ETL functions.
+* The data strategy should ensure a scalable and adaptable architecture.
+# Data Management:
+* This encompasses the entire data lifecycle within the organization.
+* It includes data security, privacy, quality, metadata, integration, master data management, and analytics.
+  
+By considering these factors, organizations can develop effective data strategies that unlock the full potential of their data assets.
+
+# IMPORTANT 
+
+* Data Governance: Sets the guidelines and rules for how data can be used within an organization.
+
+  * Think of it as the "what" - what data can be accessed by whom.
+    
+* Data Management: Ensures the processes and practices are in place to follow the data governance rules.
+
+  * Think of it as the "how" - how access is controlled and rules are enforced.
+    
+# Analogy:
+
+ * Data Governance Policy: Only high-level staff can access confidential data.
+ * Data Management: Data security systems and access controls ensure only high-level staff can access confidential data.
+
+
+# THE FOUR COMPONENTS OF A DATA STRATEGY
+![image](https://github.com/SesethuPotye/Data-Governance/assets/162969678/09a2e9b7-2523-4d8e-8081-a20f290888d1)
+
+# MANAGING AND MONITORING DATA STRATEGY
+
+# Benefits of a Data Strategy:
+
+* Improved ability to leverage data for value creation and performance enhancement.
+* Provides a clear roadmap for execution.
+  
+# Importance of Data Governance and Management:
+
+# Data governance defines data access rules.
+* Data management ensures these rules are followed through processes and practices.
+* Both are crucial for successful data strategy implementation.
+  
+# Data Strategy is a Living Document:
+
+* Business needs, customer expectations, and the economy can necessitate adjustments.
+* Monitor the strategy using metrics, participant feedback, and outcome audits.
+* Regularly review and adapt the strategy as needed (agile approach).
+  
+# The Pitfalls of a Static Strategy:
+
+* Strategies become outdated without periodic review and updates.
+* Organizations should avoid creating a data strategy and neglecting it for years.
+  
+# Conclusion:
+
+A well-maintained data strategy is a key characteristic of a successful and adaptable organization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
