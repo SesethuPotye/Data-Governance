@@ -277,9 +277,16 @@ In conclusion, effectively implementing DDDM can significantly improve an organi
 * Missed Opportunities: Data initiatives are seen as secondary to larger projects or as a response to immediate needs, potentially missing long-term strategic opportunities.
 
 
+REASONS THAT ORGANIZATION DONT TAKEA PROACTIVE APPROACH TO MANAGING DATA:
 
+* “If it ain’t broke”, why fix it?
+* It’s too expensive and time-consuming to focus on data.
+* It’s far too complicated.
+* Data management and governance — what is that?
 
+Every one of these is valid. If your business is not open or able to recognize the potential upside of managing data as a high-value asset, it will be an uphill battle to convince them otherwise.
 
+That said, once you make the decision to manage data as the high-value asset it is, you’re going to need a plan. That’s when a data strategy becomes the starting point.
 
 
 
