@@ -417,7 +417,20 @@ A well-maintained data strategy is a key characteristic of a successful and adap
 
 
 
+MODULE SUMMARY
 
+# This module provided a foundational understanding of data governance but did not delve into the specific tools and implementation details.
+
+# Key Learnings:
+  * Overview of data governance practices and their role within organizations.
+  * Importance of data governance for effective data utilization.
+# Limitations:
+ * In-depth creation, definition, and implementation processes for data governance are not covered.
+# Connection to Data Science:
+  * Understanding data governance is essential before data analysis and visualization to ensure insights are valuable and based on reliable data.
+# Next Steps:
+  * Practice exams and answer reviews for the Data Science course exam.
+  * Take a break before continuing to the next module.
 
 
 
